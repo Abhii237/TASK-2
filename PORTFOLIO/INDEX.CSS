@@ -1,0 +1,31 @@
+
+body, figure, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1, h2, h3 {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+
+  header {
+    background-color: #c5dd0f;
+    color: #b80c0c
+  
